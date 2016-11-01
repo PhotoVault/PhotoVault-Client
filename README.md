@@ -14,6 +14,7 @@ When dealing with potentially personal information, user privacy is of the utmos
 ## Potential Client features
 * Image filters
 * Secure messaging using text chat
+
 ## TODO
 Basically everything
 ## Disclaimer
