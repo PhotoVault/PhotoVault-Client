@@ -1,3 +1,4 @@
+![PhotoVault Banner](https://i.imgur.com/kNdO8jx.png)
 # PhotoVault-Client
 ## Overview
 Client code for PhotoVault, a FLOSS alternative to SnapChat which uses PGP for encryption.
