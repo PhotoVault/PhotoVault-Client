@@ -10,6 +10,7 @@ When dealing with potentially personal information, user privacy is of the utmos
 * Receive images from the server and decrypt them using a public key
 * Automatically destroy images after a period of time (ala SnapChat)
 * Generate private/public keypair
+
 ## Potential Client features
 * Image filters
 * Secure messaging using text chat
